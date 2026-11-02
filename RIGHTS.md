@@ -8,8 +8,4 @@ The Ribbon Sprout emblem, fox companion, illustrated emoji and promotional cover
 
 The Android screenshots are real captures from an isolated emulator using demonstration data. They are labeled separately from generated promotional illustration. No standalone font files or third-party icon packs are redistributed in this repository.
 
-## Application packages
-
-No APK or other application package is published here. Application packages contain third-party libraries, fonts and native SDKs with their own terms and notices. Existing notices in signed packages must remain intact. The complete version-matched package notice review remains separate from this documentation repository.
-
 Third-party rights remain with their respective owners. Contact [product support](SUPPORT.md) for permission enquiries or corrections to credits.

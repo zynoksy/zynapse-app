@@ -2,7 +2,7 @@
 
 **Is Zynapse publicly released?**
 
-Not yet. Android 1.0.0 build 9 is a verified local preview candidate. There is no verified public installer, store listing, iOS build or desktop package here.
+Zynapse is in development. This repository provides product information and support; app distribution is managed separately from GitHub.
 
 **Can I use it without an account?**
 
@@ -39,7 +39,3 @@ The three Android captures are real screenshots with isolated demo data. The cov
 **Is the application open source?**
 
 No application source is published in this repository. A public product page does not grant rights to private source or bundled software. See [rights and credits](../RIGHTS.md).
-
-**Can an APK be inspected?**
-
-Yes. Android packages inherently contain compiled app code, JavaScript bytecode, native libraries and runtime assets. Keeping source private does not make downloadable software impossible to inspect or reverse engineer.

@@ -1,4 +1,4 @@
-# Download installers belong in release assets, never Git history.
+# Keep application binaries out of this documentation repository.
 *.apk
 *.aab
 *.exe

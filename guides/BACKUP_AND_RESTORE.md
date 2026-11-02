@@ -1,6 +1,6 @@
-# Backup, restore and uninstall
+# Backup and restore
 
-**The preview does not have a complete user-facing local backup and restore flow.** Keep the installed app and its data if you need your history.
+**The preview does not have a complete user-facing local backup and restore flow.** Keep your existing app data intact if you need your history.
 
 ## What Export does
 
@@ -18,14 +18,12 @@ Snapshots replace prior server snapshots and do not merge concurrent changes. Au
 
 A snapshot is separate from the partial Export action. Do not assume that seeing an account screen means a complete backup has succeeded.
 
-## Changing devices or updating
+## Changing devices
 
-There is no verified general migration procedure for this preview. Keep your original installation until a complete transfer and restore have been confirmed. For ordinary updates, install a compatible signed APK over the current app without uninstalling. Android's own backup behavior varies and has not been verified as a restore path.
+There is no verified general migration procedure for this preview. Keep your original app data intact until a complete transfer and restore have been confirmed. Android's own backup behavior varies and has not been verified as a restore path.
 
-## Reset, clear storage and uninstall
+## Reset and clear storage
 
 A habit reset and deleting all app data have different scopes. Both can remove progress. Export selected information first if useful, while remembering that export is not restorable.
 
-To uninstall on Android, open the app's system **App info** page and choose **Uninstall**, or use your launcher's uninstall action. Uninstalling or clearing storage can remove locally held data. Reinstalling is not a verified way to recover it.
-
-Local deletion or uninstall does not establish deletion of any previously uploaded account snapshot. Contact [support](../SUPPORT.md) about account data; do not post account details publicly.
+Clearing app storage can remove locally held data permanently. Local deletion does not establish deletion of any previously uploaded account snapshot. Contact [support](../SUPPORT.md) about account data; do not post account details publicly.

@@ -1,6 +1,6 @@
 # Getting started
 
-These steps describe the Android 1.0.0 build 9 preview. Public installation is pending review.
+These steps introduce the features in the Android preview. This repository provides product guides and support.
 
 1. **Set up your preferences.** Enter a display name, choose English, French or Arabic, select your currency and appearance, and choose whether to enable reminders. Reminders depend on device support and permissions.
 2. **Choose a habit.** Pick a preset or a custom habit. Enter a typical daily baseline and your goals. Cost-related savings use the baseline you enter and are estimates.
