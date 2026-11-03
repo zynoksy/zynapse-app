@@ -1,6 +1,6 @@
 # Support
 
-For bugs and feature requests, use [GitHub Issues](https://github.com/Zynokss/zynapse-app/issues). Search existing reports first and use the provided templates.
+For bugs and feature requests, use [GitHub Issues](https://github.com/zynoksy/zynapse-app/issues). Search existing reports first and use the provided templates.
 
 For a private product enquiry, email [contact@zynoks.com](mailto:contact@zynoks.com).
 
