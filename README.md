@@ -2,7 +2,7 @@
 
 Small steps. A little support.
 
-![Zynapse promotional artwork with the Ribbon Sprout emblem, an amber fox and a winding paper path.](assets/images/zynapse-cover.webp)
+![Zynapse promotional artwork with an orange fox on a woodland path leading to a torii gate.](assets/images/zynapse-cover.webp)
 
 Zynapse is a local-first habit recovery tracker for people who want to reduce or leave an unwanted habit. Track your days, get support during cravings, reflect in a journal, and grow alongside a fox companion.
 
@@ -35,12 +35,14 @@ Core tracking works locally without an account. Optional account backup, subscri
 
 ## Inside the app
 
-The images below are real captures of the unmodified Android 1.0.0 build 9 preview in an isolated emulator. The profile and activity are demonstration data. The cover above is generated promotional illustration, not a screenshot.
+These screenshots show Zynapse 1.0.0 (Android closed-test build 17) running on an emulator with demo data.
 
 <p>
-  <img src="assets/screenshots/android-home.png" alt="Zynapse Home in the Android preview, showing the isolated Demo profile and a newly created social media habit." width="240" />
-  <img src="assets/screenshots/android-tools.png" alt="Zynapse Tools in the Android preview, showing relief exercises and coping shortcuts." width="240" />
-  <img src="assets/screenshots/android-journal.png" alt="Zynapse Journal in the Android preview, showing a clearly identified demonstration journal entry." width="240" />
+  <img src="assets/screenshots/home.webp" alt="Home and the daily streak" width="170" />
+  <img src="assets/screenshots/progress.webp" alt="Progress and milestones" width="170" />
+  <img src="assets/screenshots/craving-support.webp" alt="Craving support and coping tools" width="170" />
+  <img src="assets/screenshots/journal.webp" alt="Journal and sample reflections" width="170" />
+  <img src="assets/screenshots/companion.webp" alt="Sprout, the fox companion" width="170" />
 </p>
 
 [Image provenance and generation prompt](assets/IMAGES.md)
